@@ -39,3 +39,9 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# local secrets (server-only, paste your OpenAI key here)
+src/lib/secrets.local.ts
+
+# generated study content (PDFs, notes, quizzes)
+content/

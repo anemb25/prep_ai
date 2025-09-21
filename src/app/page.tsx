@@ -1,103 +1,86 @@
-import Image from "next/image";
+// FILE: src/app/page.tsx
+// Exact landing to match your screenshot.
+
+"use client";
+
+import Link from "next/link";
 
 export default function Home() {
   return (
-    <div className="font-sans grid grid-rows-[20px_1fr_20px] items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20">
-      <main className="flex flex-col gap-[32px] row-start-2 items-center sm:items-start">
-        <Image
-          className="dark:invert"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={180}
-          height={38}
-          priority
-        />
-        <ol className="font-mono list-inside list-decimal text-sm/6 text-center sm:text-left">
-          <li className="mb-2 tracking-[-.01em]">
-            Get started by editing{" "}
-            <code className="bg-black/[.05] dark:bg-white/[.06] font-mono font-semibold px-1 py-0.5 rounded">
-              src/app/page.tsx
-            </code>
-            .
-          </li>
-          <li className="tracking-[-.01em]">
-            Save and see your changes instantly.
-          </li>
-        </ol>
+    <main className="landing">
+      {/* Background blobs */}
+      <div className="landing__blobs" aria-hidden="true">
+        <div className="landing__blob landing__blob--left" />
+        <div className="landing__blob landing__blob--right" />
+      </div>
 
-        <div className="flex gap-4 items-center flex-col sm:flex-row">
-          <a
-            className="rounded-full border border-solid border-transparent transition-colors flex items-center justify-center bg-foreground text-background gap-2 hover:bg-[#383838] dark:hover:bg-[#ccc] font-medium text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5 sm:w-auto"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className="dark:invert"
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={20}
-              height={20}
-            />
-            Deploy now
-          </a>
-          <a
-            className="rounded-full border border-solid border-black/[.08] dark:border-white/[.145] transition-colors flex items-center justify-center hover:bg-[#f2f2f2] dark:hover:bg-[#1a1a1a] hover:border-transparent font-medium text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5 w-full sm:w-auto md:w-[158px]"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Read our docs
-          </a>
+      <div className="landing__container">
+        {/* Heading */}
+        <h1 className="landing__title">Prep AI</h1>
+        <p className="landing__subtitle">
+          Intelligent learning platform powered by artificial<br className="hidden md:inline" />
+          intelligence
+        </p>
+
+        {/* Tiles */}
+        <div className="landing__tiles">
+          {/* Student */}
+          <Link href="/onboarding" className="tile" aria-label="Open Student">
+            <div className="tile__icon tile__icon--blue">
+              <svg
+                viewBox="0 0 24 24"
+                className="tile__iconSvg tile__iconSvg--blue"
+                fill="none"
+                stroke="currentColor"
+                strokeWidth="1.8"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                aria-hidden="true"
+              >
+                <path d="M22 10 12 6 2 10l10 4 10-4Z" />
+                <path d="M6 12v5c0 1 4 3 6 3s6-2 6-3v-5" />
+              </svg>
+            </div>
+
+            <h2 className="tile__title">Student</h2>
+            <p className="tile__copy">
+              Access your personalized learning<br />
+              dashboard, practice tests, and AI-<br />
+              powered study recommendations
+            </p>
+          </Link>
+
+          {/* Admin */}
+          <Link href="/admin" className="tile" aria-label="Open Admin">
+            <div className="tile__icon tile__icon--purple">
+              <svg
+                viewBox="0 0 24 24"
+                className="tile__iconSvg tile__iconSvg--purple"
+                fill="none"
+                stroke="currentColor"
+                strokeWidth="1.8"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                aria-hidden="true"
+              >
+                <path d="M12 3 5 6v6c0 5 3.5 7.5 7 9 3.5-1.5 7-4 7-9V6l-7-3Z" />
+              </svg>
+            </div>
+
+            <h2 className="tile__title">Admin</h2>
+            <p className="tile__copy">
+              Manage users, content, analytics, and<br />
+              system settings with comprehensive<br />
+              administrative tools
+            </p>
+          </Link>
         </div>
-      </main>
-      <footer className="row-start-3 flex gap-[24px] flex-wrap items-center justify-center">
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="/file.svg"
-            alt="File icon"
-            width={16}
-            height={16}
-          />
-          Learn
-        </a>
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="/window.svg"
-            alt="Window icon"
-            width={16}
-            height={16}
-          />
-          Examples
-        </a>
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://nextjs.org?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="/globe.svg"
-            alt="Globe icon"
-            width={16}
-            height={16}
-          />
-          Go to nextjs.org →
-        </a>
-      </footer>
-    </div>
+
+        {/* Footer */}
+        <p className="landing__footer">
+          © {new Date().getFullYear()} Prep AI. Empowering education through artificial intelligence.
+        </p>
+      </div>
+    </main>
   );
 }
