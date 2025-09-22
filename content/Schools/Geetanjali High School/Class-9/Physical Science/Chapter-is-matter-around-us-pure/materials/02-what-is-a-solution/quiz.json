@@ -1,0 +1,62 @@
+[
+  {
+    "question_id": "S1",
+    "stem": "The component of a solution present in a larger amount is called the:",
+    "options": [
+      "Solute",
+      "Solvent",
+      "Mixture",
+      "Compound"
+    ],
+    "answer_index": 1,
+    "rationale": "The component that dissolves the other component and is present in a larger amount is the solvent."
+  },
+  {
+    "question_id": "S2",
+    "stem": "Which of the following is a property of a solution?",
+    "options": [
+      "The particles are visible to the naked eye.",
+      "The particles scatter a beam of light.",
+      "The solute particles settle down when left undisturbed.",
+      "The particles are smaller than 1 nm in diameter."
+    ],
+    "answer_index": 3,
+    "rationale": "The particles of a solution are smaller than 1 nm (10^-9 meters) in diameter and cannot be seen with the naked eye."
+  },
+  {
+    "question_id": "S3",
+    "stem": "A solution that has dissolved as much solute as it can at a given temperature is called a(n):",
+    "options": [
+      "Unsaturated solution",
+      "Dilute solution",
+      "Concentrated solution",
+      "Saturated solution"
+    ],
+    "answer_index": 3,
+    "rationale": "A saturated solution has dissolved the maximum amount of solute it can at a particular temperature."
+  },
+  {
+    "question_id": "S4",
+    "stem": "What is the concentration of a solution containing 40 g of salt in 320 g of water, in terms of mass by mass percentage?",
+    "options": [
+      "10%",
+      "11.1%",
+      "12.5%",
+      "8%"
+    ],
+    "answer_index": 1,
+    "rationale": "The mass of the solution is 40g (solute) + 320g (solvent) = 360g. The mass percentage is (Mass of solute / Mass of solution) × 100 = (40 / 360) × 100 = 11.1%."
+  },
+  {
+    "question_id": "S5",
+    "stem": "What is the solute in tincture of iodine?",
+    "options": [
+      "Iodine",
+      "Alcohol",
+      "Water",
+      "A mixture of iodine and alcohol"
+    ],
+    "answer_index": 0,
+    "rationale": "In tincture of iodine, iodine (a solid) is the solute, and alcohol (a liquid) is the solvent."
+  }
+]

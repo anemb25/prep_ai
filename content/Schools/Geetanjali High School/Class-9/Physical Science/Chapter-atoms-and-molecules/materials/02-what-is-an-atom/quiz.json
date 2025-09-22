@@ -1,0 +1,62 @@
+[
+  {
+    "question_id": "WIA1",
+    "stem": "What is the building block of all matter?",
+    "options": [
+      "Molecules",
+      "Compounds",
+      "Elements",
+      "Atoms"
+    ],
+    "answer_index": 3,
+    "rationale": "The building blocks of all matter are atoms, which are very tiny particles."
+  },
+  {
+    "question_id": "WIA2",
+    "stem": "Which of the following is the SI unit for measuring the atomic radius?",
+    "options": [
+      "Meters",
+      "Micrometers",
+      "Millimeters",
+      "Nanometers"
+    ],
+    "answer_index": 3,
+    "rationale": "Atomic radius is measured in nanometers (nm), where 1 nm equals 10⁻⁹ meters."
+  },
+  {
+    "question_id": "WIA3",
+    "stem": "Which of Dalton's postulates states that atoms of different elements have different masses and chemical properties?",
+    "options": [
+      "All matter is made of very tiny particles called atoms.",
+      "Atoms are indivisible particles, which cannot be created or destroyed.",
+      "Atoms of a given element are identical in mass and chemical properties.",
+      "Atoms of different elements have different masses and chemical properties."
+    ],
+    "answer_index": 3,
+    "rationale": "One of Dalton's key postulates is that atoms of different elements are different, with different masses and chemical properties."
+  },
+  {
+    "question_id": "WIA4",
+    "stem": "The modern-day symbol for iron is Fe. Where does this symbol come from?",
+    "options": [
+      "The English name 'iron'",
+      "The Latin name 'ferrum'",
+      "The German name 'eisen'",
+      "The Greek name 'sideros'"
+    ],
+    "answer_index": 1,
+    "rationale": "The symbol Fe for iron is derived from its Latin name, 'ferrum'."
+  },
+  {
+    "question_id": "WIA5",
+    "stem": "What is the standard reference for measuring relative atomic masses?",
+    "options": [
+      "The mass of an oxygen atom",
+      "The mass of a hydrogen atom",
+      "Exactly one-twelfth the mass of one atom of carbon-12",
+      "Exactly one-sixteenth the mass of one atom of oxygen"
+    ],
+    "answer_index": 2,
+    "rationale": "In 1961, carbon-12 was chosen as the standard reference, and one atomic mass unit is defined as exactly one-twelfth the mass of one atom of carbon-12."
+  }
+]

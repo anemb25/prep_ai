@@ -1,0 +1,62 @@
+[
+  {
+    "question_id": "pnm1",
+    "stem": "What is matter?",
+    "options": [
+      "Anything that can be seen or touched",
+      "Anything that has mass and occupies space",
+      "Anything that is living or non-living",
+      "Anything that can be measured"
+    ],
+    "answer_index": 1,
+    "rationale": "Matter is defined as anything that has both mass and volume[cite: 8]."
+  },
+  {
+    "question_id": "pnm2",
+    "stem": "Which of the following is NOT an example of matter?",
+    "options": [
+      "Air",
+      "Smell",
+      "Almonds",
+      "Lemon water"
+    ],
+    "answer_index": 1,
+    "rationale": "Smell is a sensation, not a substance with mass and volume[cite: 129, 130]."
+  },
+  {
+    "question_id": "pnm3",
+    "stem": "The experiment of dissolving salt in water proves that matter is:",
+    "options": [
+      "Continuous like a block of wood",
+      "Made up of particles with spaces between them",
+      "Not made up of particles",
+      "Made of particles that have no spaces between them"
+    ],
+    "answer_index": 1,
+    "rationale": "When salt dissolves in water, the salt particles get into the spaces between the water particles[cite: 35]. [cite_start]This shows that matter is particulate, not continuous[cite: 20]."
+  },
+  {
+    "question_id": "pnm4",
+    "stem": "How small are the particles of matter?",
+    "options": [
+      "Large enough to be seen with a microscope",
+      "Small but visible to the naked eye",
+      "Very small, beyond our imagination",
+      "The same size as a grain of sand"
+    ],
+    "answer_index": 2,
+    "rationale": "The experiment with potassium permanganate shows that a single crystal can contain millions of tiny particles, which are very small, even 'beyond our imagination'[cite: 69, 72]."
+  },
+  {
+    "question_id": "pnm5",
+    "stem": "Which of the following describes the ancient Indian view of matter?",
+    "options": [
+      "Matter is composed of five basic elements called the 'Panch Tatva'",
+      "Matter is a mixture of air and water",
+      "Matter is a solid, liquid, or gas",
+      "Matter is continuously flowing"
+    ],
+    "answer_index": 0,
+    "rationale": "Early Indian philosophers classified matter into five basic elements: air, earth, fire, sky, and water, known as the 'Panch Tatva'[cite: 10]."
+  }
+]

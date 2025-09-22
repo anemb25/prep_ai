@@ -1,0 +1,62 @@
+[
+  {
+    "question_id": "M1",
+    "stem": "Which of the following is considered a pure substance from a scientific point of view?",
+    "options": [
+      "Milk",
+      "Salt",
+      "Distilled water",
+      "Ghee"
+    ],
+    "answer_index": 2,
+    "rationale": "A pure substance consists of a single type of particle. Milk, salt, and ghee are all mixtures of different substances, while distilled water is a pure substance."
+  },
+  {
+    "question_id": "M2",
+    "stem": "What is the key characteristic of a homogeneous mixture?",
+    "options": [
+      "It has physically distinct parts.",
+      "It has a non-uniform composition.",
+      "It has a uniform composition throughout.",
+      "Its components can be seen with the naked eye."
+    ],
+    "answer_index": 2,
+    "rationale": "A homogeneous mixture, or solution, has a uniform composition throughout."
+  },
+  {
+    "question_id": "M3",
+    "stem": "A mixture of oil and water is an example of a(n):",
+    "options": [
+      "Homogeneous mixture",
+      "Heterogeneous mixture",
+      "Pure substance",
+      "Compound"
+    ],
+    "answer_index": 1,
+    "rationale": "Oil and water do not mix uniformly and have physically distinct parts, making them a heterogeneous mixture."
+  },
+  {
+    "question_id": "M4",
+    "stem": "An alloy is considered a mixture because it:",
+    "options": [
+      "Cannot be separated by physical methods.",
+      "Has a fixed composition.",
+      "Shows the properties of its constituents and can have variable composition.",
+      "Is composed of a single element."
+    ],
+    "answer_index": 2,
+    "rationale": "Although an alloy is a mixture of metals that cannot be separated by physical methods, it is considered a mixture because it shows the properties of its constituent metals and can have a variable composition."
+  },
+  {
+    "question_id": "M5",
+    "stem": "Which of the following describes a substance?",
+    "options": [
+      "It contains more than one pure substance.",
+      "Its composition is variable.",
+      "It is a mixture of different particles.",
+      "It consists of a single type of particle."
+    ],
+    "answer_index": 3,
+    "rationale": "A substance is a pure single form of matter that consists of a single type of particle."
+  }
+]

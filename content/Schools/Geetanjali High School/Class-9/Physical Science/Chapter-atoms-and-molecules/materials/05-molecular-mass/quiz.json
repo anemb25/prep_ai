@@ -1,0 +1,62 @@
+[
+  {
+    "question_id": "MM1",
+    "stem": "The molecular mass of a substance is the sum of the atomic masses of all the atoms in a molecule. How is it expressed?",
+    "options": [
+      "In grams (g)",
+      "In kilograms (kg)",
+      "In atomic mass units (u)",
+      "In kilograms per mole (kg/mol)"
+    ],
+    "answer_index": 2,
+    "rationale": "Molecular mass is the relative mass of a molecule expressed in atomic mass units (u)."
+  },
+  {
+    "question_id": "MM2",
+    "stem": "The term 'formula unit mass' is used for substances whose constituent particles are:",
+    "options": [
+      "Molecules",
+      "Atoms",
+      "Ions",
+      "Mixtures"
+    ],
+    "answer_index": 2,
+    "rationale": "The word 'formula unit' is used for substances whose constituent particles are ions."
+  },
+  {
+    "question_id": "MM3",
+    "stem": "What is the molecular mass of water ($H_2O$), given the atomic mass of H = 1 u and O = 16 u?",
+    "options": [
+      "17 u",
+      "18 u",
+      "16 u",
+      "12 u"
+    ],
+    "answer_index": 1,
+    "rationale": "The molecular mass of water is calculated as: (2 × atomic mass of H) + (1 × atomic mass of O) = (2 × 1) + (1 × 16) = 18 u."
+  },
+  {
+    "question_id": "MM4",
+    "stem": "What is the formula unit mass of $CaCl_2$, given the atomic mass of Ca = 40 u and Cl = 35.5 u?",
+    "options": [
+      "75.5 u",
+      "111 u",
+      "80 u",
+      "142 u"
+    ],
+    "answer_index": 1,
+    "rationale": "The formula unit mass of $CaCl_2$ is calculated as: (1 × atomic mass of Ca) + (2 × atomic mass of Cl) = (1 × 40) + (2 × 35.5) = 40 + 71 = 111 u."
+  },
+  {
+    "question_id": "MM5",
+    "stem": "What is the molecular mass of $HNO_3$, given the atomic mass of H = 1 u, N = 14 u, and O = 16 u?",
+    "options": [
+      "30 u",
+      "48 u",
+      "63 u",
+      "29 u"
+    ],
+    "answer_index": 2,
+    "rationale": "The molecular mass of $HNO_3$ is calculated as: (1 × atomic mass of H) + (1 × atomic mass of N) + (3 × atomic mass of O) = 1 + 14 + (3 × 16) = 15 + 48 = 63 u."
+  }
+]

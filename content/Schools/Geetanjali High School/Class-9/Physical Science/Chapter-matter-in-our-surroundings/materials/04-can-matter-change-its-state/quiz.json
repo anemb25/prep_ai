@@ -1,0 +1,74 @@
+[
+  {
+    "question_id": "cms1",
+    "stem": "The process of a solid changing directly into a gas is called:",
+    "options": [
+      "Melting",
+      "Boiling",
+      "Sublimation",
+      "Condensation"
+    ],
+    "answer_index": 2,
+    "rationale": "Sublimation is the change of state directly from a solid to a gas without changing into a liquid."
+  },
+  {
+    "question_id": "cms2",
+    "stem": "Why does the temperature of a substance remain constant during the change of state from solid to liquid?",
+    "options": [
+      "The heat is used up to increase the kinetic energy of particles.",
+      "The heat is absorbed by the surrounding environment.",
+      "The heat is used to overcome the forces of attraction between the particles.",
+      "The substance cannot absorb more heat."
+    ],
+    "answer_index": 2,
+    "rationale": "The heat supplied during melting is used up to overcome the forces of attraction between particles, so the temperature does not rise."
+  },
+  {
+    "question_id": "cms3",
+    "stem": "What is the melting point of ice in Kelvin?",
+    "options": [
+      "0 K",
+      "100 K",
+      "273.15 K",
+      "373.15 K"
+    ],
+    "answer_index": 2,
+    "rationale": "The melting point of ice is 273.15 K. For convenience, it is often rounded off to 273 K."
+  },
+  {
+    "question_id": "cms4",
+    "stem": "Why do steam burns at 100°C feel more severe than boiling water burns at 100°C?",
+    "options": [
+      "Steam is at a higher temperature than boiling water.",
+      "Steam has absorbed extra energy in the form of latent heat of vaporisation.",
+      "Steam is a gas and penetrates the skin more easily.",
+      "Steam is less dense than water."
+    ],
+    "answer_index": 1,
+    "rationale": "Particles in steam have absorbed extra energy in the form of latent heat of vaporisation, making them more energetic than particles in boiling water at the same temperature."
+  },
+  {
+    "question_id": "cms5",
+    "stem": "The direct change of a gas to a solid is called:",
+    "options": [
+      "Sublimation",
+      "Fusion",
+      "Deposition",
+      "Condensation"
+    ],
+    "answer_index": 2,
+    "rationale": "The direct change of gas to solid without going through the liquid state is called deposition."
+  },
+  {
+    "question_id": "cms6",
+    "stem": "How can gases be liquefied?",
+    "options": [
+      "By increasing temperature and decreasing pressure.",
+      "By decreasing temperature and increasing pressure.",
+      "By only decreasing pressure.",
+      "By only increasing temperature."
+    ],
+    "answer_index": 1,
+    "rationale": "Applying pressure and reducing temperature can liquefy gases."
+  }
+]

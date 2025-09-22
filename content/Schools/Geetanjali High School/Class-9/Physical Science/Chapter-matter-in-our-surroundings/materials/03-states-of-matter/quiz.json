@@ -1,0 +1,74 @@
+[
+  {
+    "question_id": "som1",
+    "stem": "Which of the following has a fixed volume but no fixed shape?",
+    "options": [
+      "A pencil",
+      "Water",
+      "Oxygen gas",
+      "A stone"
+    ],
+    "answer_index": 1,
+    "rationale": "Liquids have a fixed volume but take the shape of the container they are in, so they have no fixed shape."
+  },
+  {
+    "question_id": "som2",
+    "stem": "Why are gases highly compressible?",
+    "options": [
+      "Their particles are held together by a strong force of attraction.",
+      "Their particles are tightly packed with no space between them.",
+      "Their particles have a large amount of empty space between them.",
+      "They are rigid and cannot be changed."
+    ],
+    "answer_index": 2,
+    "rationale": "Gases are highly compressible because the particles are very far apart and have a large space between them."
+  },
+  {
+    "question_id": "som3",
+    "stem": "What is the term for a substance's ability to flow?",
+    "options": [
+      "Rigidity",
+      "Compressibility",
+      "Fluidity",
+      "Diffusion"
+    ],
+    "answer_index": 2,
+    "rationale": "Liquids and gases flow and are not rigid, so they are called fluids."
+  },
+  {
+    "question_id": "som4",
+    "stem": "In which state of matter do particles move about randomly at high speeds?",
+    "options": [
+      "Solid",
+      "Liquid",
+      "Gas",
+      "All three states"
+    ],
+    "answer_index": 2,
+    "rationale": "In the gaseous state, particles move randomly at high speeds."
+  },
+  {
+    "question_id": "som5",
+    "stem": "Why can aquatic animals breathe underwater?",
+    "options": [
+      "They can absorb water directly through their gills.",
+      "They have a special organ for breathing in water.",
+      "Oxygen from the atmosphere diffuses and dissolves in water.",
+      "They don't need oxygen to survive."
+    ],
+    "answer_index": 2,
+    "rationale": "Gases from the atmosphere, especially oxygen and carbon dioxide, diffuse and dissolve in water, which is essential for the survival of aquatic animals."
+  },
+  {
+    "question_id": "som6",
+    "stem": "The pressure exerted by a gas is due to:",
+    "options": [
+      "The force of attraction between its particles.",
+      "The volume of the container.",
+      "The force exerted by gas particles on the walls of the container.",
+      "The high density of the gas."
+    ],
+    "answer_index": 2,
+    "rationale": "The pressure exerted by a gas is because of the force exerted by gas particles per unit area on the walls of the container."
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "question_id": "WCF1",
+    "stem": "What is the symbolic representation of a compound's composition?",
+    "options": [
+      "Chemical symbol",
+      "Valency",
+      "Atomic mass",
+      "Chemical formula"
+    ],
+    "answer_index": 3,
+    "rationale": "A chemical formula is a symbolic representation of a compound’s composition, showing the elements and the number of atoms of each."
+  },
+  {
+    "question_id": "WCF2",
+    "stem": "What is the combining power or capacity of an element called?",
+    "options": [
+      "Valency",
+      "Atomicity",
+      "Mass",
+      "Charge"
+    ],
+    "answer_index": 0,
+    "rationale": "The combining power or capacity of an element is known as its valency."
+  },
+  {
+    "question_id": "WCF3",
+    "stem": "What is the correct way to write the chemical formula for a compound consisting of a metal and a non-metal?",
+    "options": [
+      "The non-metal's symbol is written first.",
+      "The metal's symbol is written first.",
+      "The symbols can be written in any order.",
+      "The symbols are written based on their atomic mass."
+    ],
+    "answer_index": 1,
+    "rationale": "When a compound consists of a metal and a non-metal, the name or symbol of the metal is written first."
+  },
+  {
+    "question_id": "WCF4",
+    "stem": "What is the rule for using brackets with polyatomic ions in a chemical formula?",
+    "options": [
+      "Brackets are always used with polyatomic ions.",
+      "Brackets are never used with polyatomic ions.",
+      "Brackets are used only when there are two or more of the same polyatomic ion.",
+      "Brackets are used only when the charge is negative."
+    ],
+    "answer_index": 2,
+    "rationale": "When a compound consists of a polyatomic ion, brackets are used to enclose the ion's formula only if there are two or more of the same ion."
+  },
+  {
+    "question_id": "WCF5",
+    "stem": "The charges on the ions in a chemical formula must:",
+    "options": [
+      "Add up to a positive number.",
+      "Add up to a negative number.",
+      "Balance each other and make the overall structure neutral.",
+      "Always be written next to the symbol."
+    ],
+    "answer_index": 2,
+    "rationale": "The valencies or charges on the ions must balance each other so that the overall structure is neutral."
+  }
+]

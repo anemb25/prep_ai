@@ -1,0 +1,62 @@
+[
+  {
+    "question_id": "WIM1",
+    "stem": "A molecule is generally a group of two or more atoms that are:",
+    "options": [
+      "Physically mixed together",
+      "Tightly held together by attractive forces",
+      "Separated by large distances",
+      "Always of the same type"
+    ],
+    "answer_index": 1,
+    "rationale": "A molecule is a group of two or more atoms that are chemically bonded, or tightly held together by attractive forces."
+  },
+  {
+    "question_id": "WIM2",
+    "stem": "What is the term for the number of atoms constituting a molecule?",
+    "options": [
+      "Valency",
+      "Atomicity",
+      "Formula",
+      "Proportion"
+    ],
+    "answer_index": 1,
+    "rationale": "The number of atoms in a molecule is known as its atomicity."
+  },
+  {
+    "question_id": "WIM3",
+    "stem": "Which of the following is a monoatomic molecule?",
+    "options": [
+      "Oxygen ($O_2$)",
+      "Helium (He)",
+      "Ozone ($O_3$)",
+      "Nitrogen ($N_2$)"
+    ],
+    "answer_index": 1,
+    "rationale": "Molecules of elements like argon (Ar) and helium (He) are made up of only one atom of that element, making them monoatomic."
+  },
+  {
+    "question_id": "WIM4",
+    "stem": "A negatively charged ion is called a(n):",
+    "options": [
+      "Cation",
+      "Anion",
+      "Polyatomic ion",
+      "Atom"
+    ],
+    "answer_index": 1,
+    "rationale": "A negatively charged ion is called an 'anion', and a positively charged ion is a 'cation'."
+  },
+  {
+    "question_id": "WIM5",
+    "stem": "What are compounds composed of metals and non-metals called?",
+    "options": [
+      "Molecular compounds",
+      "Ionic compounds",
+      "Atomic compounds",
+      "Elemental compounds"
+    ],
+    "answer_index": 1,
+    "rationale": "Compounds composed of metals and non-metals contain charged species known as ions, and are therefore called ionic compounds."
+  }
+]

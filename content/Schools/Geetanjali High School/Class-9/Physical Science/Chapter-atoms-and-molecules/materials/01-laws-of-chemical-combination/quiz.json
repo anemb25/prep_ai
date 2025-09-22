@@ -1,0 +1,62 @@
+[
+  {
+    "question_id": "LCC1",
+    "stem": "Which of the following laws states that mass can neither be created nor destroyed in a chemical reaction?",
+    "options": [
+      "Law of Constant Proportions",
+      "Law of Conservation of Mass",
+      "Dalton's Atomic Theory",
+      "Law of Definite Proportions"
+    ],
+    "answer_index": 1,
+    "rationale": "The Law of Conservation of Mass states that mass is conserved in a chemical reaction, meaning it is neither created nor destroyed."
+  },
+  {
+    "question_id": "LCC2",
+    "stem": "In water, the ratio of the mass of hydrogen to the mass of oxygen is always 1:8. This statement supports which law?",
+    "options": [
+      "Law of Constant Proportions",
+      "Law of Conservation of Mass",
+      "Law of Multiple Proportions",
+      "Law of Combining Volumes"
+    ],
+    "answer_index": 0,
+    "rationale": "The Law of Constant Proportions states that elements in a pure compound are always present in definite proportions by mass."
+  },
+  {
+    "question_id": "LCC3",
+    "stem": "If 9 g of water is decomposed, what mass of oxygen and hydrogen will be obtained?",
+    "options": [
+      "8 g of oxygen and 1 g of hydrogen",
+      "1 g of oxygen and 8 g of hydrogen",
+      "4.5 g of each",
+      "9 g of oxygen and no hydrogen"
+    ],
+    "answer_index": 0,
+    "rationale": "According to the Law of Constant Proportions, the mass ratio of hydrogen to oxygen in water is always 1:8. So, in 9 g of water, there will be 1 g of hydrogen and 8 g of oxygen."
+  },
+  {
+    "question_id": "LCC4",
+    "stem": "The Law of Conservation of Mass was established by:",
+    "options": [
+      "John Dalton",
+      "Joseph L. Proust",
+      "Maharishi Kanad",
+      "Antoine L. Lavoisier"
+    ],
+    "answer_index": 3,
+    "rationale": "Antoine L. Lavoisier laid the foundation of chemical sciences by establishing two important laws of chemical combination, including the Law of Conservation of Mass."
+  },
+  {
+    "question_id": "LCC5",
+    "stem": "Which of Dalton's atomic theory postulates explains the Law of Conservation of Mass?",
+    "options": [
+      "Atoms are indivisible particles, which cannot be created or destroyed in a chemical reaction.",
+      "Atoms of a given element are identical in mass and chemical properties.",
+      "Atoms combine in the ratio of small whole numbers to form compounds.",
+      "Atoms of different elements have different masses and chemical properties."
+    ],
+    "answer_index": 0,
+    "rationale": "Dalton's postulate that atoms cannot be created or destroyed in a chemical reaction provides an explanation for the Law of Conservation of Mass."
+  }
+]

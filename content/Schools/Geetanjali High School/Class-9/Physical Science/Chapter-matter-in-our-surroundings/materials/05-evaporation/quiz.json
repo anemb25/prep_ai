@@ -1,0 +1,62 @@
+[
+  {
+    "question_id": "evap1",
+    "stem": "Evaporation is a phenomenon in which a liquid changes to a vapor:",
+    "options": [
+      "Only at its boiling point.",
+      "At any temperature below its boiling point.",
+      "Only when heated.",
+      "At a fixed temperature."
+    ],
+    "answer_index": 1,
+    "rationale": "Evaporation is the phenomenon of a liquid changing into vapours at any temperature below its boiling point."
+  },
+  {
+    "question_id": "evap2",
+    "stem": "What happens to the rate of evaporation as the humidity of the air increases?",
+    "options": [
+      "It increases.",
+      "It decreases.",
+      "It remains the same.",
+      "It becomes zero."
+    ],
+    "answer_index": 1,
+    "rationale": "If the amount of water vapour in the air (humidity) is already high, the rate of evaporation decreases."
+  },
+  {
+    "question_id": "evap3",
+    "stem": "Why do we spread clothes while putting them for drying?",
+    "options": [
+      "To increase the temperature of the clothes.",
+      "To increase the surface area for faster evaporation.",
+      "To decrease the wind speed.",
+      "To prevent them from getting wrinkles."
+    ],
+    "answer_index": 1,
+    "rationale": "Evaporation is a surface phenomenon. By spreading out clothes, the surface area is increased, which increases the rate of evaporation."
+  },
+  {
+    "question_id": "evap4",
+    "stem": "What causes the cooling effect of evaporation?",
+    "options": [
+      "The release of heat energy by the liquid.",
+      "The absorption of heat energy from the surroundings by the liquid's particles.",
+      "The decrease in temperature of the liquid.",
+      "The increase in humidity of the air."
+    ],
+    "answer_index": 1,
+    "rationale": "During evaporation, particles of the liquid absorb energy from the surroundings to regain the energy lost, which makes the surroundings feel cold."
+  },
+  {
+    "question_id": "evap5",
+    "stem": "Why do people sprinkle water on the roof after a hot sunny day?",
+    "options": [
+      "To increase the humidity.",
+      "To add moisture to the air.",
+      "The large latent heat of vaporisation of water helps to cool the hot surface.",
+      "To clean the roof."
+    ],
+    "answer_index": 2,
+    "rationale": "The large latent heat of vaporisation of water allows it to absorb a lot of heat from the hot surface as it evaporates, causing a cooling effect."
+  }
+]

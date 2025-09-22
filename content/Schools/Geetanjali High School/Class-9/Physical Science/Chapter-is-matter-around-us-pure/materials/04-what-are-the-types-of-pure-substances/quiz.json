@@ -1,0 +1,62 @@
+[
+  {
+    "question_id": "EC1",
+    "stem": "What is an element?",
+    "options": [
+      "A substance composed of two or more elements.",
+      "A basic form of matter that can be broken down into simpler substances.",
+      "A basic form of matter that cannot be broken down into simpler substances by chemical reactions.",
+      "A mixture of different substances."
+    ],
+    "answer_index": 2,
+    "rationale": "An element is a basic form of matter that cannot be broken down into simpler substances by chemical reactions."
+  },
+  {
+    "question_id": "EC2",
+    "stem": "Which of the following properties is characteristic of a metal?",
+    "options": [
+      "They are poor conductors of heat and electricity.",
+      "They are not lustrous.",
+      "They are malleable.",
+      "They have a variety of colors."
+    ],
+    "answer_index": 2,
+    "rationale": "Metals are malleable, meaning they can be hammered into thin sheets. The other options are typically properties of non-metals."
+  },
+  {
+    "question_id": "EC3",
+    "stem": "A compound is a substance composed of two or more elements that are combined:",
+    "options": [
+      "Physically in a variable proportion.",
+      "Physically in a fixed proportion.",
+      "Chemically in a variable proportion.",
+      "Chemically in a fixed proportion."
+    ],
+    "answer_index": 3,
+    "rationale": "A compound is formed when elements are chemically combined with one another in a fixed proportion."
+  },
+  {
+    "question_id": "EC4",
+    "stem": "Which of the following materials is a compound?",
+    "options": [
+      "Sodium",
+      "Calcium carbonate",
+      "Air",
+      "Soil"
+    ],
+    "answer_index": 1,
+    "rationale": "Calcium carbonate is a compound composed of calcium, carbon, and oxygen. Sodium is an element, while air and soil are mixtures."
+  },
+  {
+    "question_id": "EC5",
+    "stem": "What is the key difference in properties between a mixture and a compound?",
+    "options": [
+      "A mixture has a fixed composition, while a compound has a variable composition.",
+      "A mixture shows the properties of its constituents, while a compound has totally different properties.",
+      "A mixture can only be separated by chemical reactions, while a compound can be separated by physical methods.",
+      "A mixture is always homogeneous, while a compound is always heterogeneous."
+    ],
+    "answer_index": 1,
+    "rationale": "A mixture shows the properties of its constituent substances. The new substance in a compound has totally different properties from its constituents."
+  }
+]

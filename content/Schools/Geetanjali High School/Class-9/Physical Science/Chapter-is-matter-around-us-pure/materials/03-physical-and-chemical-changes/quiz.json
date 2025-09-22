@@ -1,0 +1,62 @@
+[
+  {
+    "question_id": "PCC1",
+    "stem": "Which of the following is an example of a physical change?",
+    "options": [
+      "Burning of a candle",
+      "Rusting of an almirah",
+      "Melting of butter in a pan",
+      "Cooking of food"
+    ],
+    "answer_index": 2,
+    "rationale": "Melting of butter is a physical change because it involves a change of state but not a change in its chemical composition."
+  },
+  {
+    "question_id": "PCC2",
+    "stem": "Which of the following is a chemical property of a substance?",
+    "options": [
+      "Color",
+      "Density",
+      "Melting point",
+      "Inflammability"
+    ],
+    "answer_index": 3,
+    "rationale": "Inflammability (the ability to burn) is a chemical property. The other options (color, density, melting point) are physical properties."
+  },
+  {
+    "question_id": "PCC3",
+    "stem": "A chemical change is also called a:",
+    "options": [
+      "Physical reaction",
+      "Chemical reaction",
+      "Mixture",
+      "Solution"
+    ],
+    "answer_index": 1,
+    "rationale": "A chemical change brings about a change in the chemical properties of a substance and is also called a chemical reaction."
+  },
+  {
+    "question_id": "PCC4",
+    "stem": "The interconversion of states of matter (e.g., solid to liquid) is a physical change because:",
+    "options": [
+      "It changes the chemical composition of the substance.",
+      "It creates new substances.",
+      "It occurs without a change in the chemical nature of the substance.",
+      "It involves a chemical reaction."
+    ],
+    "answer_index": 2,
+    "rationale": "The interconversion of states is a physical change because the substance remains chemically the same, even though its physical appearance and properties change."
+  },
+  {
+    "question_id": "PCC5",
+    "stem": "What kind of change is the burning of paper and wood?",
+    "options": [
+      "A physical change",
+      "A chemical change",
+      "Both a physical and chemical change",
+      "Neither a physical nor a chemical change"
+    ],
+    "answer_index": 1,
+    "rationale": "Burning is a chemical change because the substance reacts with another (oxygen) to undergo a change in its chemical composition, creating new substances like ash and gases."
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "question_id": "cpm1",
+    "stem": "What causes the smell of hot food to reach you from several meters away?",
+    "options": [
+      "The particles of the food are very small",
+      "The particles of the food have high kinetic energy and diffuse rapidly",
+      "The particles of the food are held together by a strong force",
+      "The hot food has a low density"
+    ],
+    "answer_index": 1,
+    "rationale": "The particles of matter are continuously moving. As temperature increases, particles move faster (have higher kinetic energy), leading to faster diffusion."
+  },
+  {
+    "question_id": "cpm2",
+    "stem": "What is the term for the intermixing of particles of two different types of matter on their own?",
+    "options": [
+      "Fusion",
+      "Condensation",
+      "Diffusion",
+      "Evaporation"
+    ],
+    "answer_index": 2,
+    "rationale": "The process of particles of matter intermixing on their own is called diffusion."
+  },
+  {
+    "question_id": "cpm3",
+    "stem": "Why can a diver cut through water easily but a karate expert is needed to cut a solid block of wood?",
+    "options": [
+      "Matter is continuous",
+      "The force of attraction is stronger in water",
+      "Particles of water have more space and a weaker force of attraction between them",
+      "Water has a lower density"
+    ],
+    "answer_index": 2,
+    "rationale": "The ability to cut through water shows that the force of attraction between water particles is relatively weak. It is much stronger in a solid like wood."
+  },
+  {
+    "question_id": "cpm4",
+    "stem": "What happens to the kinetic energy of particles of matter when the temperature is increased?",
+    "options": [
+      "It decreases",
+      "It remains the same",
+      "It increases",
+      "It becomes zero"
+    ],
+    "answer_index": 2,
+    "rationale": "As the temperature rises, particles move faster, which means their kinetic energy also increases."
+  },
+  {
+    "question_id": "cpm5",
+    "stem": "Which of the following is a characteristic of particles of matter?",
+    "options": [
+      "They are stationary",
+      "They are invisible",
+      "They repel each other",
+      "They are continuously moving"
+    ],
+    "answer_index": 3,
+    "rationale": "Particles of matter are continuously moving and possess kinetic energy."
+  },
+  {
+    "question_id": "cpm6",
+    "stem": "What is the force that holds particles of matter together?",
+    "options": [
+      "Gravitational force",
+      "Frictional force",
+      "Force of attraction",
+      "Magnetic force"
+    ],
+    "answer_index": 2,
+    "rationale": "Particles of matter have a force acting between them that keeps them together. This is called the force of attraction."
+  }
+]
